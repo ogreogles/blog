@@ -1,2 +1,1 @@
-# blog
-blog
+https://ogreogles.github.io/blog/
